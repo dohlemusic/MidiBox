@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "STM32")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32G0B1RCT6.kicad_sym")(options "")(descr ""))
-  (lib (name "Toshiba Opto")(type "KiCad")(uri "${KIPRJMOD}/lib/TLP293_GR-TPL_E.kicad_sym")(options "")(descr ""))
-  (lib (name "Buffer")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74AHC1G125DCKR.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32")(type "KiCad")(uri "${KIPRJMOD}/symbols/STM32G0B1RCT6.kicad_sym")(options "")(descr ""))
+  (lib (name "Toshiba Opto")(type "KiCad")(uri "${KIPRJMOD}/symbols/TLP293_GR-TPL_E.kicad_sym")(options "")(descr ""))
+  (lib (name "Buffer")(type "KiCad")(uri "${KIPRJMOD}/symbols/SN74AHC1G125DCKR.kicad_sym")(options "")(descr ""))
 )

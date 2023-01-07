@@ -320,6 +320,58 @@
     [
       "4892859e-4d82-4a19-a4a0-b438ecbb2f5d",
       ""
+    ],
+    [
+      "d19201e8-2d2a-460e-96f0-64cd2ba1d7fe",
+      "MIDI_IN1"
+    ],
+    [
+      "f4333102-4ce1-44e4-9269-1a70d090b0a0",
+      "buttons"
+    ],
+    [
+      "a5e51bf9-88db-402c-8294-651d4c1b03a5",
+      "MIDI_OUT1"
+    ],
+    [
+      "3571d74a-3d54-4d9a-aa19-0cbd6f5bb5a6",
+      "MIDI_IN2"
+    ],
+    [
+      "34218927-3b91-43ea-a8e4-839c6206b1ea",
+      "MIDI_IN3"
+    ],
+    [
+      "6c184c16-aeb3-450a-aac2-15e6368a51bf",
+      "MIDI_IN4"
+    ],
+    [
+      "16bfcf02-d05c-4cc9-91ca-d5c6375f07aa",
+      "MIDI_IN5"
+    ],
+    [
+      "7dccdbd9-97ba-446c-b9ee-f9f5c6ae7e44",
+      "MIDI_IN6"
+    ],
+    [
+      "33936e4e-e58a-45ec-b91e-6f5aa3eb4ba7",
+      "MIDI_OUT2"
+    ],
+    [
+      "a38a31fd-a26d-40b6-bc30-5dc719a0b6c7",
+      "MIDI_OUT3"
+    ],
+    [
+      "8560905d-c841-4c2c-be66-d45082663e74",
+      "MIDI_OUT4"
+    ],
+    [
+      "1af51020-4143-4739-86b3-229c4aa614ee",
+      "MIDI_OUT6"
+    ],
+    [
+      "8d83a238-8169-443d-89cb-4122bb1a9e96",
+      "MIDI_OUT5"
     ]
   ],
   "text_variables": {}
