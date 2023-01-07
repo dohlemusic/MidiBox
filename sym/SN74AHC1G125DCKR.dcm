@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AHC1G125DCKR
+D Single Bus Buffer Gate with 3-State Output
+K
+F http://www.ti.com/lit/ds/symlink/sn74ahc1g125.pdf
+$ENDCMP
+#
+#End Doc Library
