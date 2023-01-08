@@ -63,6 +63,8 @@ void Error_Handler(void);
 #define MIDI_IN5_GPIO_Port GPIOC
 #define BTN_IN6_Pin GPIO_PIN_12
 #define BTN_IN6_GPIO_Port GPIOC
+#define WS2812B_Pin GPIO_PIN_1
+#define WS2812B_GPIO_Port GPIOC
 #define BTN_OUT6_Pin GPIO_PIN_3
 #define BTN_OUT6_GPIO_Port GPIOC
 #define MIDI_OUT6_Pin GPIO_PIN_0
@@ -75,10 +77,10 @@ void Error_Handler(void);
 #define BTN_OUT5_GPIO_Port GPIOA
 #define MIDI_OUT4_Pin GPIO_PIN_4
 #define MIDI_OUT4_GPIO_Port GPIOA
-#define BTN_OUT4_Pin GPIO_PIN_5
-#define BTN_OUT4_GPIO_Port GPIOA
-#define DISP_BRI_Pin GPIO_PIN_7
+#define DISP_BRI_Pin GPIO_PIN_5
 #define DISP_BRI_GPIO_Port GPIOA
+#define BTN_OUT4_Pin GPIO_PIN_6
+#define BTN_OUT4_GPIO_Port GPIOA
 #define MIDI_OUT3_Pin GPIO_PIN_4
 #define MIDI_OUT3_GPIO_Port GPIOC
 #define BTN_OUT3_Pin GPIO_PIN_5
